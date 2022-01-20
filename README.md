@@ -1,2 +1,2 @@
 # Présentation-ventes
-OV - Projet 2 - Interpréter des données graphiques
+OC - Projet 2 - Interpréter des données graphiques
